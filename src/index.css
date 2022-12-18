@@ -1,0 +1,31 @@
+body {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: sans-serif;
+      min-height: 1200vh;
+      background-color: #fff;
+}
+
+
+
+.container {
+      max-width: 1280px;
+      margin: 0 auto;
+}
+
+.text_center
+{
+      text-align: center;
+}
+
+
+
+
+
+/* mobile styles */
+
+@media screen and (max-width:767px) {
+      
+}
+
